@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357633353746",
+    "project_id": "my-app-1bd49",
+    "storage_bucket": "my-app-1bd49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357633353746:android:ce8c03824704b8d47090cb",
+        "android_client_info": {
+          "package_name": "com.NVT.DiaryAndNote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357633353746-9lckes9jq2g9pqrn8scg8neoh71q88s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NVT.DiaryAndNote",
+            "certificate_hash": "c603a7a57a54819b325c11c2eb9fe248ccd4c30c"
+          }
+        },
+        {
+          "client_id": "357633353746-k6s6ilaabjbfdd89c4qv1u9m15opu3bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.NVT.DiaryAndNote",
+            "certificate_hash": "051190289c98a09ddc395dcfd1e5483e7400bc78"
+          }
+        },
+        {
+          "client_id": "357633353746-qojm6dnhnn1op154apcp8kdu39t8489k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJk4ZxCNYyEDJDLSaPNtrhHAw_gd-tAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357633353746-qojm6dnhnn1op154apcp8kdu39t8489k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
