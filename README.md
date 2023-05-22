@@ -1,8 +1,16 @@
 # DiaryAndNote
+## Cách chạy
 
+- Mở ứng dụng giả lập (Android Studio)
+- Chạy dòng lệnh trong terminal ở folder
+```
+expo start
+```
+- Ấn tiếp A để mở trên giả lập (hoặc W để mở trên web)
+- Có thể chạy trên giả lập hoặc website
 ## Chức năng chính
 ### Tạo nhật ký, ghi chú gồm phần thông tin, tiêu đề, nội dung với các tùy chỉnh
-	- Thời gian và ngày tháng (mặc định thời điểm viết)
+- Thời gian và ngày tháng (mặc định thời điểm viết)
 - Địa điểm (sử dụng google map)
 	- Chọn một địa điểm có săn trên bản đồ
 	- Chọn một địa điểm bất kỳ trên bản đồ để lấy được vị trí
